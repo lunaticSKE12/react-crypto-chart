@@ -63,7 +63,7 @@ const Homepage = () => {
         </Title>
 
         <Title level={3} className="show-more">
-          <Link to="/neews">Show More</Link>
+          <Link to="/news">Show More</Link>
         </Title>
       </div>
       <News simplified />
